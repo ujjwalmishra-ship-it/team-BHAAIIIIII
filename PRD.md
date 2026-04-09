@@ -1,6 +1,6 @@
 # PRD: Vanik — The MSME Export Documentation Agent
 
-> *"Global trade runs on paperwork, phone calls, and people who know the rules. We replaced the people."*
+> *"Global trade runs on paperwork, phone calls, and people who know the rules."*
 
 ---
 
